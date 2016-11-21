@@ -1,0 +1,7 @@
+# Ide files
+.idea
+
+# Framework files
+vendor
+composer.lock
+.env

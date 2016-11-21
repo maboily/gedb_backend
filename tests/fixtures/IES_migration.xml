@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<idspace id="parse_xml_sample">
+    <Name>Dummy Text</Name>
+    <Class ClassID="1" StringValue="39" IntegerValue="0" NullIntegerValue="NULL" FloatValue="1" OptionalValue="---" MeaninglessValue="false" NullableBooleanValue="NULL" />
+    <Class ClassID="2" StringValue="1.333" IntegerValue="1337" NullIntegerValue="42" FloatValue="1.1416" MeaninglessValue="false" NullableBooleanValue="FALSE" />
+    <Class ClassID="3" StringValue="1.333" IntegerValue="1010" NullIntegerValue="NULL" FloatValue="141" MeaninglessValue="false" NullableBooleanValue="NULL" />
+    <Class ClassID="4" StringValue="HelloWorld!" IntegerValue="007" NullIntegerValue="144" FloatValue="1.00001" OptionalValue="Imhere" MeaninglessValue="false" NullableBooleanValue="TRUE" />
+</idspace>
